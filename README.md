@@ -64,3 +64,11 @@ const store = createStore(
   window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
 );
 ```
+
+## For testing
+
+see https://jestjs.io/docs/en/snapshot-testing
+
+```
+npm install --save-dev react-test-renderer
+```
