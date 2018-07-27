@@ -1,0 +1,9 @@
+.Rating-stars {
+  font-size: 76px;
+  color: gold;
+  user-select: none;
+}
+
+.Rating-stars span:hover {
+  cursor: pointer;
+}
